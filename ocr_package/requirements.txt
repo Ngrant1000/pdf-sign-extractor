@@ -1,0 +1,12 @@
+pytesseract==0.3.10
+pdf2image==1.16.3
+Pillow==10.1.0
+opencv-python==4.8.1.78
+PyMuPDF==1.23.3
+numpy>=1.23.0
+requests>=2.27.0
+pandas>=1.5.0
+
+# Optional, for advanced document understanding
+# transformers>=4.21.0
+# torch>=1.12.0 

@@ -1,0 +1,29 @@
+Sign ID,Route,Milepost,Side,Description,Action,Size (sq ft),Colors,Quantity
+1.1,SR-81,0.024,Right,MS1-8u State Route 2 Digits Confirmation Assembly Conventional,Panel Replacement,6.00,BK&W,1
+1.6,SR-81,0.044,Left,D1-2 Destination 2 Lines,New Sign,12.50,BK&G,1
+1.7,SR-81,0.068,Right,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,1
+1.9,SR-81,0.083,Left,MS1-8j 2 State Routes 2 & 3 digits Directional Assembly Conventional (MOD),New Sign,18.00,BK&W,1
+1.11,SR-81,0.124,Left,MS1-8p State Route 2 Digit JCT Assembly Conventional,New Sign,7.00,BK&W,1
+1.12,SR-81,0.148,Left,W3-1 Advanced Traffic Control (Stop Ahead),Panel Replacement,6.25,BK&R&Y,1
+1.14,SR-81,0.407,Left,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,1
+2.1,SR-81,0.491,Left,R1-1 Stop Oversized,Panel Replacement,16.00,R&W,2
+2.3,SR-81,0.595,Right,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,1
+2.4,SR-81,0.671,Left,MS1-8u State Route 2 Digits Confirmation Assembly Conventional,Panel Replacement,6.00,BK&W,1
+3.1,SR-81,0.836,Left,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,1
+3.2,SR-81,0.936,Right,W13-1P Advisory Speed (plaque) (20 MPH),Panel Replacement,2.25,BK&Y,3
+3.4,SR-81,0.965,Right,W1-8L Chevron Alignment,Panel Replacement,3.00,BK&Y,3
+3.6,SR-81,0.977,Right,W1-8R Chevron Alignment,Panel Replacement,3.00,BK&Y,1
+3.7,SR-81,0.977,Right,W1-8L Chevron Alignment,New Sign,3.00,BK&Y,3
+3.9,SR-81,0.988,Right,W1-8L Chevron Alignment,New Sign,3.00,BK&Y,3
+3.11,SR-81,1.000,Right,D10-1 Reference Location (1 Digit),New Sign,1.25,BK&G,1
+3.12,SR-81,1.033,Right,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,1
+3.13,SR-81,1.033,Left,W13-1P Advisory Speed (plaque) (20 MPH),New Sign,2.25,BK&Y,3
+4.1,SR-81,1.086,Right,MS1-8u State Route 2 Digits Confirmation Assembly Conventional,Panel Replacement,6.00,BK&W,1
+4.3,SR-81,1.124,Right,I-2 Jurisdictional Boundary (FIELDING),Panel Replacement,6.00,GR&W,1
+4.4,SR-81,1.553,Right,R2-5P (MOD) Unless Otherwise Posted (plaque),Panel Replacement,7.50,BK&W,1
+4.5,SR-81,1.733,Left,R2-1 Speed Limit (45 MPH),Panel Replacement,5.00,BK&W,4
+5.1,SR-81,2.000,Right,D10-1 Reference Location (1 Digit),Panel Replacement,1.25,BK&G,5
+5.3,SR-81,2.061,Right,OM1-3 Object Markers (obstructions within the roadway),Panel Replacement,2.25,Y,5
+5.5,SR-81,2.416,Left,R2-1 Speed Limit (35 MPH),Panel Replacement,5.00,BK&W,5
+5.7,SR-81,2.453,Right,MS1-8p State Route 2 Digit END Assembly Conventional,Panel Replacement,6.00,BK&W,1
+5.8,SR-81,2.472,Right,R1-1 Stop,Panel Replacement,6.25,R&W,1
